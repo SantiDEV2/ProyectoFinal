@@ -17,8 +17,8 @@
 
 # Enlaces a codigos SQL
 
-## [Schema Redirect](./BD/Proyect%203.0.sql)
+[Schema Redirect](./BD/Proyect%203.0.sql)
 
-## [Initial_data Redirect](./BD/initial_data.sql)
+[Initial_data Redirect](./BD/initial_data.sql)
 
-## [Queries Redirect](./BD/queries.sql)
+[Queries Redirect](./BD/queries.sql)
