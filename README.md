@@ -22,5 +22,3 @@
 [Initial_data Redirect](./BD/initial_data.sql)
 
 [Queries Redirect](./BD/queries.sql)
-
-[Base de datos Sql](./BD/Proyect%203.0.sql)
