@@ -1,3 +1,5 @@
+USE ProyectoFinal;
+
 INSERT INTO PAISES (NOMBRE, DOMINIO) VALUES
   ("Afganistán","AF"),
   ("Albania","AL"),
